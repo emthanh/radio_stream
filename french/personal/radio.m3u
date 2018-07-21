@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:0,fip-midfi - fip-midfi.mp3
+#EXTVLCOPT:network-caching=1000
+http://direct.fipradio.fr/live/fip-midfi.mp3
+#EXTINF:0,franceinter-midfi - franceinter-midfi.mp3
+#EXTVLCOPT:network-caching=1000
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:0,indiepop-128-aac - indiepop-128-aac
+#EXTVLCOPT:network-caching=1000
+http://ice1.somafm.com/indiepop-128-aac
+#EXTINF:0,indiepop-128-aac - indiepop-128-aac
+#EXTVLCOPT:network-caching=1000
+http://ice3.somafm.com/indiepop-128-aac
+#EXTINF:0,frequences-relaxation - frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==
+#EXTVLCOPT:network-caching=1000
+https://listen.radionomy.com/frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==
+#EXTINF:0,radioparadize - mp3-192
+http://stream-sd1.radioparadise.com:80/mp3-192
+#EXTINF:0,Radio Suisse Classique - aacp_96
+http://stream.srg-ssr.ch/m/rsc_fr/aacp_96
+#EXTINF:0,Radio Swiss Pop - aacp_96
+http://stream.srg-ssr.ch/m/rsp/aacp_96
+#EXTINF:0,Radiolla Brazil 64k AAC+ - brazil.64k.aac
+http://air.radiolla.com:80/brazil.64k.aac
+#EXTINF:0,Radiolla Ilma 64k AAC+ - ilma.64k.aac
+http://air.radiolla.com:80/ilma.64k.aac
+#EXTINF:0,Radiolla Jiraffe 64k AAC+ - jiraffe.64k.aac
+http://air.radiolla.com:80/jiraffe.64k.aac
+#EXTINF:0,Radiolla Mantra 64k AAC+ - mantra.64k.aac
+http://air.radiolla.com:80/mantra.64k.aac
+#EXTINF:0,Radiolla Volta 64k AAC+ - volta.64k.aac
+http://air.radiolla.com:80/volta.64k.aac
+HTTP://plainmaster.bcast.infomaniak.ch:8000/tsfjazz-high.mp3
+#EXTINF:0,europe 1 - europe1.mp3
+#EXTVLCOPT:network-caching=1000
+http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Liste de lecture</title>
+	<trackList>
+		<track>
+			<location>http://direct.fipradio.fr/live/fip-midfi.mp3</location>
+			<title>fip-midfi.mp3</title>
+			<creator>fip-midfi</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://direct.franceinter.fr/live/franceinter-midfi.mp3</location>
+			<title>franceinter-midfi.mp3</title>
+			<creator>franceinter-midfi</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice1.somafm.com/indiepop-128-aac</location>
+			<title>Indie Pop Rocks! [SomaFM]</title>
+			<creator>indiepop-128-aac</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice3.somafm.com/indiepop-128-aac</location>
+			<title>Indie Pop Rocks! [SomaFM]</title>
+			<creator>indiepop-128-aac</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://listen.radionomy.com/frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==</location>
+			<title>frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==</title>
+			<creator>frequences-relaxation</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream-sd1.radioparadise.com:80/mp3-192</location>
+			<title>Radio Paradise - DJ-mixed modern &amp; classic rock, world, electronica &amp; more - info: radioparadise.com</title>
+			<creator>radioparadize</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.srg-ssr.ch/m/rsc_fr/aacp_96</location>
+			<title>Radio Suisse Classique</title>
+			<creator>Radio Suisse Classique</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.srg-ssr.ch/m/rsp/aacp_96</location>
+			<title>Radio Swiss Pop</title>
+			<creator>Radio Swiss Pop</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://air.radiolla.com:80/brazil.64k.aac</location>
+			<title>Radiolla Brazil 64k AAC+</title>
+			<creator>Radiolla Brazil 64k AAC+</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://air.radiolla.com:80/ilma.64k.aac</location>
+			<title>Radiolla Ilma 64k AAC+</title>
+			<creator>Radiolla Ilma 64k AAC+</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://air.radiolla.com:80/jiraffe.64k.aac</location>
+			<title>Radiolla Jiraffe 64k AAC+</title>
+			<creator>Radiolla Jiraffe 64k AAC+</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://air.radiolla.com:80/mantra.64k.aac</location>
+			<title>Radiolla Mantra 64k AAC+</title>
+			<creator>Radiolla Mantra 64k AAC+</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://air.radiolla.com:80/volta.64k.aac</location>
+			<title>Radiolla Volta 64k AAC+</title>
+			<creator>Radiolla Volta 64k AAC+</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>HTTP://plainmaster.bcast.infomaniak.ch:8000/tsfjazz-high.mp3</location>
+			<title>TSF Jazz</title>
+			<creator>TSF Jazz</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3</location>
+			<title>europe 1</title>
+			<creator>europe 1</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
