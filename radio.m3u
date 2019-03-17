@@ -18,10 +18,16 @@ https://listen.radionomy.com/frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==
 http://stream-sd1.radioparadise.com:80/mp3-192
 #EXTINF:0,Radio Suisse Classique - aacp_96
 http://stream.srg-ssr.ch/m/rsc_fr/aacp_96
+#EXTINF:0,;
+#EXTVLCOPT:network-caching=1000
+http://109.123.116.202:8008/mp3/;
+#EXTINF:0,;
+#EXTVLCOPT:network-caching=1000
+http://5.135.173.165/stream1/;
+#EXTVLCOPT:network-caching=1000
+http://109.123.116.202:8020/stream/1/
 #EXTINF:0,Radio Swiss Pop - aacp_96
 http://stream.srg-ssr.ch/m/rsp/aacp_96
-#EXTINF:0,Radiolla Brazil 64k AAC+ - brazil.64k.aac
-http://air.radiolla.com:80/brazil.64k.aac
 #EXTINF:0,Radiolla Ilma 64k AAC+ - ilma.64k.aac
 http://air.radiolla.com:80/ilma.64k.aac
 #EXTINF:0,Radiolla Jiraffe 64k AAC+ - jiraffe.64k.aac
@@ -34,3 +40,15 @@ HTTP://plainmaster.bcast.infomaniak.ch:8000/tsfjazz-high.mp3
 #EXTINF:0,europe 1 - europe1.mp3
 #EXTVLCOPT:network-caching=1000
 http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
+#EXTINF:0,mp3_128.mp3?origine=fluxradios
+#EXTVLCOPT:network-caching=1000
+http://cdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,radiofrmusik-high.mp3
+#EXTVLCOPT:network-caching=1000
+http://plainmaster.bcast.infomaniak.ch:8000/radiofrmusik-high.mp3
+#EXTINF:0,radiofrmusic-high.mp3
+#EXTVLCOPT:network-caching=1000
+http://radiofrmusic.ice.infomaniak.ch/radiofrmusic-high.mp3
+#EXTINF:0,radiofribourg-high.mp3
+#EXTVLCOPT:network-caching=1000
+http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
