@@ -14,10 +14,27 @@ http://ice3.somafm.com/indiepop-128-aac
 #EXTINF:0,frequences-relaxation - frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==
 #EXTVLCOPT:network-caching=1000
 https://listen.radionomy.com/frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==
+#EXTINF:0,1
+#EXTVLCOPT:network-caching=1000
+http://50.7.68.251:7168/;stream/1
+#EXTINF:0,;
+#EXTVLCOPT:network-caching=1000
+http://uk2.internet-radio.com/proxy/ambientradio?mp=/;
 #EXTINF:0,radioparadize - mp3-192
 http://stream-sd1.radioparadise.com:80/mp3-192
+#EXTINF:0,klr-puremozart-aacplus-64-6524889?sABC=5p9q19r7#0#174s7s3389r7srr39q4s67s414n2q9q2#enqvbqr&amsparams=playerid:radiode;skey:1553799655
+#EXTVLCOPT:network-caching=1000
+http://klassikr.streamabc.net/klr-puremozart-aacplus-64-6524889?sABC=5p9q19r7%230%23174s7s3389r7srr39q4s67s414n2q9q2%23enqvbqr&amsparams=playerid:radiode;skey:1553799655
 #EXTINF:0,Radio Suisse Classique - aacp_96
 http://stream.srg-ssr.ch/m/rsc_fr/aacp_96
+#EXTINF:0,;
+#EXTVLCOPT:network-caching=1000
+http://109.123.116.202:8008/mp3/;
+#EXTINF:0,;
+#EXTVLCOPT:network-caching=1000
+http://5.135.173.165/stream1/;
+#EXTVLCOPT:network-caching=1000
+http://109.123.116.202:8020/stream/1/
 #EXTINF:0,Radio Swiss Pop - aacp_96
 http://stream.srg-ssr.ch/m/rsp/aacp_96
 #EXTINF:0,Radiolla Brazil 64k AAC+ - brazil.64k.aac
@@ -34,3 +51,18 @@ HTTP://plainmaster.bcast.infomaniak.ch:8000/tsfjazz-high.mp3
 #EXTINF:0,europe 1 - europe1.mp3
 #EXTVLCOPT:network-caching=1000
 http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
+#EXTINF:0,mp3_128.mp3?origine=fluxradios
+#EXTVLCOPT:network-caching=1000
+http://cdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,;1848543792326971stream.nsv
+#EXTVLCOPT:network-caching=1000
+http://64.71.79.181:8042/;/;1848543792326971stream.nsv
+#EXTINF:0,radiofrmusik-high.mp3
+#EXTVLCOPT:network-caching=1000
+http://plainmaster.bcast.infomaniak.ch:8000/radiofrmusik-high.mp3
+#EXTINF:0,radiofrmusic-high.mp3
+#EXTVLCOPT:network-caching=1000
+http://radiofrmusic.ice.infomaniak.ch/radiofrmusic-high.mp3
+#EXTINF:0,radiofribourg-high.mp3
+#EXTVLCOPT:network-caching=1000
+http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
