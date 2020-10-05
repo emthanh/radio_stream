@@ -5,6 +5,9 @@ http://direct.fipradio.fr/live/fip-midfi.mp3
 #EXTINF:0,franceinter-midfi - franceinter-midfi.mp3
 #EXTVLCOPT:network-caching=1000
 http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:0,franceinfo-midfi.mp3
+#EXTVLCOPT:network-caching=1000
+http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
 #EXTINF:0,indiepop-128-aac - indiepop-128-aac
 #EXTVLCOPT:network-caching=1000
 http://ice1.somafm.com/indiepop-128-aac

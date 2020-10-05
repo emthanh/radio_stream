@@ -23,17 +23,15 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://ice1.somafm.com/indiepop-128-aac</location>
-			<title>Indie Pop Rocks! [SomaFM]</title>
-			<creator>indiepop-128-aac</creator>
-			<album>radio</album>
+			<location>http://direct.franceinfo.fr/live/franceinfo-midfi.mp3</location>
+			<title>franceinfo-midfi.mp3</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
 		<track>
-			<location>http://ice3.somafm.com/indiepop-128-aac</location>
+			<location>http://ice1.somafm.com/indiepop-128-aac</location>
 			<title>Indie Pop Rocks! [SomaFM]</title>
 			<creator>indiepop-128-aac</creator>
 			<album>radio</album>
@@ -43,9 +41,9 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://listen.radionomy.com/frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==</location>
-			<title>frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==</title>
-			<creator>frequences-relaxation</creator>
+			<location>http://ice3.somafm.com/indiepop-128-aac</location>
+			<title>Indie Pop Rocks! [SomaFM]</title>
+			<creator>indiepop-128-aac</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
@@ -53,10 +51,20 @@
 			</extension>
 		</track>
 		<track>
+			<location>https://listen.radionomy.com/frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==</location>
+			<title>frequences-relaxation?d=YWQ9cmFkaW9ub3dlYg==</title>
+			<creator>frequences-relaxation</creator>
+			<album>radio</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
 			<location>http://50.7.68.251:7168/;stream/1</location>
 			<title>Music Lake - Relaxation Music, Meditation, Focus, Chill, Nature Sounds</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
+				<vlc:id>6</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -64,7 +72,7 @@
 			<location>http://uk2.internet-radio.com/proxy/ambientradio?mp=/;</location>
 			<title>Ambient Radio .org - Deeply Beautiful Chillout Music - A Heavenly World of Sound</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
+				<vlc:id>7</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -74,14 +82,14 @@
 			<creator>radioparadize</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
+				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://klassikr.streamabc.net/klr-puremozart-aacplus-64-6524889?sABC=5p9q19r7%230%23174s7s3389r7srr39q4s67s414n2q9q2%23enqvbqr&amp;amsparams=playerid:radiode;skey:1553799655</location>
 			<title>Klassik Radio Pure Mozart</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
+				<vlc:id>9</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -91,14 +99,14 @@
 			<creator>Radio Suisse Classique</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
+				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://109.123.116.202:8008/mp3/;</location>
 			<title>Venice Classic Radio Italia * Live</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
+				<vlc:id>11</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -106,7 +114,7 @@
 			<location>http://5.135.173.165/stream1/;</location>
 			<title>Venice Classic Radio Italia</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
+				<vlc:id>12</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -114,7 +122,7 @@
 			<location>http://109.123.116.202:8020/stream/1/</location>
 			<title>Venice Classic Radio Italia</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
+				<vlc:id>13</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -124,7 +132,7 @@
 			<creator>Radio Swiss Pop</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
+				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -133,7 +141,7 @@
 			<creator>Radiolla Brazil 64k AAC+</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
+				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -142,7 +150,7 @@
 			<creator>Radiolla Ilma 64k AAC+</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
+				<vlc:id>16</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -151,7 +159,7 @@
 			<creator>Radiolla Jiraffe 64k AAC+</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
+				<vlc:id>17</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -160,7 +168,7 @@
 			<creator>Radiolla Mantra 64k AAC+</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
+				<vlc:id>18</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -169,7 +177,7 @@
 			<creator>Radiolla Volta 64k AAC+</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
+				<vlc:id>19</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -178,7 +186,7 @@
 			<creator>TSF Jazz</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
+				<vlc:id>20</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -187,7 +195,7 @@
 			<creator>europe 1</creator>
 			<album>radio</album>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
+				<vlc:id>21</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -195,7 +203,7 @@
 			<location>http://cdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3?origine=fluxradios</location>
 			<title>CFM BALLADS 128mp3</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>21</vlc:id>
+				<vlc:id>22</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -203,7 +211,7 @@
 			<location>http://64.71.79.181:8042/;/;1848543792326971stream.nsv</location>
 			<title>Big B Radio #KPOP | www.bigbradio.net</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>22</vlc:id>
+				<vlc:id>23</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -211,7 +219,7 @@
 			<location>http://plainmaster.bcast.infomaniak.ch:8000/radiofrmusik-high.mp3</location>
 			<title>RADIOFR. MUSIK</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>23</vlc:id>
+				<vlc:id>24</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -219,7 +227,7 @@
 			<location>http://radiofrmusic.ice.infomaniak.ch/radiofrmusic-high.mp3</location>
 			<title>RadioFr. Music</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>24</vlc:id>
+				<vlc:id>25</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -227,7 +235,7 @@
 			<location>http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3</location>
 			<title>Radio Fribourg</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>25</vlc:id>
+				<vlc:id>26</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -259,5 +267,6 @@
 		<vlc:item tid="23"/>
 		<vlc:item tid="24"/>
 		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
 	</extension>
 </playlist>
