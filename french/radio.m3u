@@ -69,3 +69,12 @@ http://radiofrmusic.ice.infomaniak.ch/radiofrmusic-high.mp3
 #EXTINF:0,radiofribourg-high.mp3
 #EXTVLCOPT:network-caching=1000
 http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
+#EXTINF:21595,chunklist_DVR.m3u8
+#EXTVLCOPT:network-caching=1000
+https://lsaplus.swisstxt.ch/audio/la-1ere_96.stream/chunklist_DVR.m3u8
+#EXTINF:21595,chunklist_DVR.m3u8
+#EXTVLCOPT:network-caching=1000
+https://lsaplus.swisstxt.ch/audio/espace-2_96.stream/chunklist_DVR.m3u8
+#EXTINF:21595,chunklist_DVR.m3u8
+#EXTVLCOPT:network-caching=1000
+https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/chunklist_DVR.m3u8

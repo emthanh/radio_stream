@@ -239,6 +239,33 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<location>https://lsaplus.swisstxt.ch/audio/la-1ere_96.stream/chunklist_DVR.m3u8</location>
+			<title>RTS - La 1ere</title>
+			<duration>21595380</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://lsaplus.swisstxt.ch/audio/espace-2_96.stream/chunklist_DVR.m3u8</location>
+			<title>RTS - Espace 2</title>
+			<duration>21595830</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/chunklist_DVR.m3u8</location>
+			<title>RTS - Couleur 3</title>
+			<duration>21595570</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -268,5 +295,8 @@
 		<vlc:item tid="24"/>
 		<vlc:item tid="25"/>
 		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
 	</extension>
 </playlist>
